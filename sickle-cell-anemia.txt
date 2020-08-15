@@ -1,0 +1,5 @@
+Sickle Cell Anemia
+Harmful when 2 copies
+Very helpful when 1 copy
+C.N(1 copy) S.N(1 copy)
+N.N,O.N(1 copy,helpful)E.N(0 copies,unprotected)W.N(2 copies,harmful)
